@@ -1,0 +1,44 @@
+html, body {
+	margin: 0px;
+	background-color: #B3FFFF;
+	font-family: Helvetica;
+}
+
+.divContainer {
+	width: 800px;
+	height: 100%;
+	margin: auto;
+	background-color: #FFFFFF;
+	margin-top: 50px;
+}
+
+.divTitle {
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.divContentContainer {
+	width: 700px;
+	margin: auto;
+}
+
+.myPic{
+	width: 350px;
+}
+
+.divPic{
+	text-align: center;
+}
+
+.paragraph {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+.icon {
+	width: 30px;
+}
