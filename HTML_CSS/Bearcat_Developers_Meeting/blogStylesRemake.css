@@ -1,0 +1,54 @@
+html, body {
+	margin: 0px;
+	background: url(http://7-themes.com/data_images/out/78/7040469-lake-mountains-woods.jpg);
+	font-family: Helvetica;
+	color: #FFFFFF;
+}
+
+.divContainer {
+	width: 750px;
+	height: 800px;
+	border-radius: 20px 20px 20px 20px;
+	margin: auto;
+	background: rgba(40, 40, 40, 0.8);
+	margin-top: 50px;
+}
+
+.divTitle {
+	text-align: center;
+	font-size: 28px;
+	font-weight: thin;
+	padding-top: 25px;
+}
+
+.divContentContainer {
+	width: 650px;
+	margin: auto;
+}
+
+.myPic{
+	width: 350px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+.divPic{
+	text-align: center;
+}
+
+.paragraph {
+	margin-bottom: 40px;
+	margin-top: 40px;
+	font-size: 14px;
+	text-align: center;
+}
+
+.icon {
+	width: 30px;
+	padding-right: 5px;
+}
+
+#divSocialMedia {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
